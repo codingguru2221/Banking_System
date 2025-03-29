@@ -1,70 +1,65 @@
-# Getting Started with Create React App
+# Banking Management System
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Overview
+This is an ongoing banking management system project that aims to provide comprehensive banking operations and management solutions. The project is actively under development with new features being added regularly.
 
-## Available Scripts
+## Team Members
 
-In the project directory, you can run:
+### Team Leader
+- **Veerendra Vishwakarma (The Codex)**
+  - GitHub: [@codingguru2221](https://github.com/codingguru2221)
+  - Engineering Enthusiast & Tech Innovator
+  - Contact: codexveer@gmail.com
 
-### `npm start`
+### Team Member
+- **Kajal Manjhi**
+  - GitHub: [@laddumanjhi](https://github.com/laddumanjhi)
+  - Engineering Student
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Current Development Status
+🚧 **Work in Progress** 🚧
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+This project is being actively developed with new features and improvements being added continuously.
 
-### `npm test`
+## Features
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Currently Implemented
+- Basic Banking Operations
+- User Interface Setup
+- Database Integration
 
-### `npm run build`
+### Features Under Development
+- Account Opening System
+- Account Management
+- Passbook Printing
+- Data Entry Management
+- Cash Withdrawal Processing
+- Balance Inquiry System
+- Transaction History
+- Customer Information Management
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Upcoming Features
+- Interest Calculation
+- Loan Management
+- Fixed Deposit Management
+- Online Banking Integration
+- Report Generation
+- Multi-branch Support
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Technical Stack
+[To be updated with project specifications]
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Installation
+[Installation instructions will be added as the project develops]
 
-### `npm run eject`
+## Usage
+[Usage instructions will be added as features are implemented]
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Contributing
+This is a collaborative project being developed by our team. For any queries, please reach out to the team members.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## License
+[Add your preferred license]
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---
+⚠️ **Note:** This project is in active development. Features are being added and updated regularly. Documentation will be updated as new functionalities are implemented.
